@@ -4,6 +4,10 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
 }
+html{
+    width:100%;
+}
+
 
 header {
     background-image: url(../images/BG.png);
