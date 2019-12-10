@@ -445,6 +445,9 @@ footer img {
     button.view {
         margin-left: 1vw;
     }
+    .journay h1{
+        margin-top:500px;
+    }
 }
 
 @media screen and (max-width:1150px) {
